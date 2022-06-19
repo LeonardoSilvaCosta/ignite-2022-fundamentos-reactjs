@@ -28,14 +28,23 @@ export function Post() {
             no NLW Return, evento da Rocketseat.
           </p>
           <p>
-            👉{' '}<a href="#">jane.design/doctorcare 🚀 </a>
+            👉 <a href="#">jane.design/doctorcare 🚀 </a>
           </p>
           <p>
-            <a href="#">#novoprojeto</a>{' '}
-            <a href="#"> #nlw #rocketseat</a>
+            <a href="#">#novoprojeto</a> <a href="#"> #nlw #rocketseat</a>
           </p>
         </p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe seu feedback</strong>
+
+        <textarea placeholder="Deixe um comentário" />
+
+        <footer>
+          <button type="submit">Publicar</button>
+        </footer>
+      </form>
     </article>
   );
 }

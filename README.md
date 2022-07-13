@@ -55,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-### Autor
+### Author
 [Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-da-silva-costa/)
 
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓

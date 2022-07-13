@@ -5,16 +5,10 @@
 Table of contents
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [About](#About)
    * [Features](#features)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tecnologias](#tecnologias)
+   * [Technologies](#technologies)
+   * [Author](#author)
 <!--te-->
 
 ---

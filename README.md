@@ -49,6 +49,27 @@ Introdução ao Spring Boot
 - [ ] Applying typescript in react
 - [ ] interface extension
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [JAVA11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
+- [Spring initializr](https://start.spring.io/)
+- [Spring boot](https://spring.io/projects/spring-boot)
+- [Spring Web](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+- [Spring data jpa](https://spring.io/projects/spring-data-jpa)
+- [Spring security](https://spring.io/projects/spring-security)
+- [Spring validation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/validation.html)
+- [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
+- [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
+
+---
+
+### Autor
+[Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-costa-b49b8062/)
+
+Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
+
 <h4 align="center"> 
 	🚧  🚀 Under construction...  🚧
 </h4>

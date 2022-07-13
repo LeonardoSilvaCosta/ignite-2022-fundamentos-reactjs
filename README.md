@@ -28,7 +28,7 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 ### Features
 
 Introdução ao Spring Boot
-- [x] Creating application with vita
+- [x] Creating application with Vite
 - [x] Creating components
 - [x] Applying the concept of properties
 - [x] Using CSS Modules in the application

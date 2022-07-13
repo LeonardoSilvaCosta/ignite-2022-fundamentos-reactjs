@@ -2,7 +2,7 @@
 <p align="center">This project is part of the first chapter of ignite 2022 and talks about the fundamentals of ReactJS. </p>
 <img src="https://img.shields.io/badge/REACTJS-STUDY-blue">
 
-Tabela de conteúdos
+Table of contents
 =================
 <!--ts-->
    * [Sobre](#Sobre)
@@ -19,7 +19,7 @@ Tabela de conteúdos
 
 ---
 
-## 💻 Sobre
+## 💻 About
 
 This project aims to increase the skills of the author of this document in ReactJS.
 This project deals with a feed whose objective is to consolidate fundamental knowledge in ReactJS.
@@ -49,7 +49,7 @@ Introdução ao Spring Boot
 - [ ] Applying typescript in react
 - [ ] interface extension
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

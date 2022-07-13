@@ -13,7 +13,7 @@ Table of contents
 
 ---
 
-## 💻 About
+### 💻 About
 
 This project aims to increase the skills of the author of this document in ReactJS.
 This project deals with a feed whose objective is to consolidate fundamental knowledge in ReactJS.

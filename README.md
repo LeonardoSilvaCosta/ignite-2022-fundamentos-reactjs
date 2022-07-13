@@ -1,2 +1,4 @@
-# ignite-2022-fundamentos-reactjs
-<p align="center">This project is part of the first chapter of ignite 2022 and talks about the fundamentals of ReactJS.</p>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>

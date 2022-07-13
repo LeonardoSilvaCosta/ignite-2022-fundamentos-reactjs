@@ -53,20 +53,16 @@ Introdução ao Spring Boot
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [JAVA11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
-- [Spring initializr](https://start.spring.io/)
-- [Spring boot](https://spring.io/projects/spring-boot)
-- [Spring Web](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
-- [Spring data jpa](https://spring.io/projects/spring-data-jpa)
-- [Spring security](https://spring.io/projects/spring-security)
-- [Spring validation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/validation.html)
-- [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
-- [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [date-fns](https://github.com/date-fns/date-fns)
+- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
+- [VS Code]([https://www.jetbrains.com/pt-br/idea/](https://code.visualstudio.com/)
 
 ---
 
 ### Autor
-[Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-costa-b49b8062/)
+[Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-da-silva-costa/)
 
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 

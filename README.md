@@ -6,7 +6,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Feautures](#features)
+   * [Features](#features)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -16,3 +16,7 @@ Tabela de conteúdos
       * [Combo](#combo)
    * [Tecnologias](#tecnologias)
 <!--te-->
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>

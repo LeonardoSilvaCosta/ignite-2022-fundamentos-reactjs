@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vite](https://vitejs.dev/)
 - [date-fns](https://github.com/date-fns/date-fns)
 - [phosphor-react](https://www.npmjs.com/package/phosphor-react)
-- [vsCode](https://www.jetbrains.com/pt-br/idea/](https://code.visualstudio.com/)
+- [vsCode](https://code.visualstudio.com/)
 
 ---
 

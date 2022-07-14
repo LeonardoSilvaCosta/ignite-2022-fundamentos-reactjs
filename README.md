@@ -1,5 +1,5 @@
 <h1 align="center">Ignite Feed - Ignite 2022</h1>
-<p align="center">This project is part of the first chapter of ignite 2022 and talks about the fundamentals of ReactJS. </p>
+<p align="center">This project is part of the first chapter of Rocketseat ignite course 2022 and talks about the fundamentals of ReactJS. </p>
 <img src="https://img.shields.io/badge/REACTJS-STUDY-blue">
 
 Table of contents
@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vite](https://vitejs.dev/)
 - [date-fns](https://github.com/date-fns/date-fns)
 - [phosphor-react](https://www.npmjs.com/package/phosphor-react)
-- [VS Code](https://www.jetbrains.com/pt-br/idea/](https://code.visualstudio.com/)
+- [VS-Code](https://www.jetbrains.com/pt-br/idea/](https://code.visualstudio.com/)
 
 ---
 
@@ -58,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	:tada:  🚀 Finalized...  :tada:
+	:tada:  🚀 Finalized  :tada:
 </h4>
 
 

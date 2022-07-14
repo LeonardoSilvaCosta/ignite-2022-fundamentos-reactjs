@@ -27,8 +27,6 @@ export function Post({ author, publishedAt, content }) {
   function handleCreateNewComment() {
     event.preventDefault();
 
-    const newCommentText = event.target.comment.value;
-
     setComments([...comments, newCommentText]);
     setNewCommentText("");
   }

@@ -37,11 +37,8 @@ Introdução ao Spring Boot
 - [x] Using useState
 - [x] Using declarative programming
 - [x] Components Communication
-- [ ] Form validation
-- [ ] Understanding closures in react
-- [ ] Typescript fundamentals
-- [ ] Applying typescript in react
-- [ ] interface extension
+- [x] Form validation
+- [x] Understanding closures in react
 
 ### 🛠 Technologies
 
@@ -61,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	🚧  🚀 Under construction...  🚧
+	:tada:  🚀 Finalized...  :tada:
 </h4>
 
 

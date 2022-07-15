@@ -21,7 +21,6 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 ---
 ### Features
 
-Introdução ao Spring Boot
 - [x] Creating application with Vite
 - [x] Creating components
 - [x] Applying the concept of properties
@@ -41,8 +40,6 @@ Introdução ao Spring Boot
 - [x] Understanding closures in react
 
 ### 🛠 Technologies
-
-As seguintes ferramentas foram usadas na construção do projeto:
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)

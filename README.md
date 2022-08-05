@@ -1,4 +1,4 @@
-<h1 align="center">todo-ignite-reactjs-chapter-I-challenge-I</h1>
+<h1 align="center">Ignite-feed - Reactjs (ignite 2022)</h1>
 <p align="center">This project is part of the first chapter of Rocketseat ignite course 2022 and is about the first challenge (fundamentals of reactjs). </p>
 <img src="https://img.shields.io/badge/REACTJS-STUDY-blue">
 

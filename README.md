@@ -1,5 +1,5 @@
-<h1 align="center">Ignite Feed - Ignite 2022</h1>
-<p align="center">This project is part of the first chapter of Rocketseat ignite course 2022 and talks about the fundamentals of ReactJS. </p>
+<h1 align="center">todo-ignite-reactjs-chapter-I-challenge-I</h1>
+<p align="center">This project is part of the first chapter of Rocketseat ignite course 2022 and is about the first challenge (fundamentals of reactjs). </p>
 <img src="https://img.shields.io/badge/REACTJS-STUDY-blue">
 
 Table of contents
@@ -21,21 +21,30 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 ---
 ### Features
 
-- [x] Creating component Header
-- [x] Creating component NewTaskSession
-- [x] Creating component Tasks
-- [x] Creating component TasksItem
-- [x] Add a new Task
-- [x] Check and uncheck a task as complete
-- [x] Remove a task
-- [x] Show task progress
+- [x] Creating application with Vite
+- [x] Creating components
+- [x] Applying the concept of properties
+- [x] Using CSS Modules in the application
+- [x] Creating CSS global
+- [x] Creating Header component
+- [x] Creating Sidebar component
+- [x] Creating Post component
+- [x] Creating Comments form
+- [x] Creating Avatar component
+- [x] Applying responsiveness
+- [x] Iterating in jsx (using map function)
+- [x] Using useState
+- [x] Using declarative programming
+- [x] Components Communication
+- [x] Form validation
+- [x] Understanding closures in react
 
 ### 🛠 Technologies
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [react-icons](https://react-icons.github.io/react-icons/)
-- [uuid](https://www.npmjs.com/package/react-uuid)
+- [date-fns](https://github.com/date-fns/date-fns)
+- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
 - [vsCode](https://code.visualstudio.com/)
 
 ---

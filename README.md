@@ -21,30 +21,21 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 ---
 ### Features
 
-- [x] Creating application with Vite
-- [x] Creating components
-- [x] Applying the concept of properties
-- [x] Using CSS Modules in the application
-- [x] Creating CSS global
-- [x] Creating Header component
-- [x] Creating Sidebar component
-- [x] Creating Post component
-- [x] Creating Comments form
-- [x] Creating Avatar component
-- [x] Applying responsiveness
-- [x] Iterating in jsx (using map function)
-- [x] Using useState
-- [x] Using declarative programming
-- [x] Components Communication
-- [x] Form validation
-- [x] Understanding closures in react
+- [x] Creating component Header
+- [x] Creating component NewTaskSession
+- [x] Creating component Tasks
+- [x] Creating component TasksItem
+- [x] Add a new Task
+- [x] Check and uncheck a task as complete
+- [x] Remove a task
+- [x] Show task progress
 
 ### 🛠 Technologies
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [date-fns](https://github.com/date-fns/date-fns)
-- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [uuid](https://www.npmjs.com/package/react-uuid)
 - [vsCode](https://code.visualstudio.com/)
 
 ---

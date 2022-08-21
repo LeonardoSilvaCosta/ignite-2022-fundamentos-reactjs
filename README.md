@@ -55,7 +55,7 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	🧑‍🔧 Em construção  🚧
+	:tada: finalized! :tada:
 </h4>
 
 

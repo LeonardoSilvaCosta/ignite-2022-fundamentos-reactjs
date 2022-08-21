@@ -42,10 +42,7 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 ### 🛠 Technologies
 
 - [ReactJS](https://pt-br.reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [date-fns](https://github.com/date-fns/date-fns)
-- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
-- [vsCode](https://code.visualstudio.com/)
+- [Create React App](https://create-react-app.dev/)
 
 ---
 
@@ -55,7 +52,7 @@ This project deals with a feed whose objective is to consolidate fundamental kno
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	:tada:  🚀 Finalized  :tada:
+	🧑‍🔧 Em construção  🚧
 </h4>
 
 
